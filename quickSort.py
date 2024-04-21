@@ -1,3 +1,5 @@
+# Quicksort program without error handling
+
 import numpy as np
 import time
 
@@ -16,4 +18,3 @@ end_time = time.time()
 execution_time = round(end_time - start_time,2)
 print(f"Result: {result}\nExecution time: {execution_time}")
 
-    
