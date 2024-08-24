@@ -1,3 +1,6 @@
+#HacherRank question for droping the duplicates of a linked list
+
+
 class Node:
     def __init__(self,data):
         self.data = data
